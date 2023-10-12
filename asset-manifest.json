@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CostTable/static/css/main.190c6492.css",
+    "main.js": "/CostTable/static/js/main.6a97f383.js",
+    "index.html": "/CostTable/index.html",
+    "main.190c6492.css.map": "/CostTable/static/css/main.190c6492.css.map",
+    "main.6a97f383.js.map": "/CostTable/static/js/main.6a97f383.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.190c6492.css",
+    "static/js/main.6a97f383.js"
+  ]
+}
